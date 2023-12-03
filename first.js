@@ -56,15 +56,7 @@ clear.addEventListener("dblclick",function(){
   
 
 })
-//f
-//t
-//t
-//f
-//t
-//f
-//
-//
-//
+
 const saveTap =document.querySelector(".tap")
 
 
